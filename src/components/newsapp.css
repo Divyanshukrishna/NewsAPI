@@ -1,0 +1,27 @@
+.categoryBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.categoryBtn .sports{
+    background-color: rgba(255, 0, 81, 0.856);
+    color: white;
+    border-radius: 10px;
+    padding: 12px;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.head{
+    text-align: center;
+    font-weight: 600;
+    font-size: 28px;
+    margin: 20px 0px;
+}
+
+nav ul a{
+    text-decoration: none;
+}
